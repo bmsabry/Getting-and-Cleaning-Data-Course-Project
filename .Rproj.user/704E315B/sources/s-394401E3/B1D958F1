@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555725260183.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B1D958F1",
+    "lastKnownWriteTime" : 1555825601,
+    "last_content_update" : 1555825602001,
+    "path" : "~/Getting-and-Cleaning-Data-Course-Project/CodeBook.md",
+    "project_path" : "CodeBook.md",
+    "properties" : {
+        "cursorPosition" : "33,44",
+        "scrollLine" : "4",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

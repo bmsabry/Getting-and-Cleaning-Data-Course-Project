@@ -41,6 +41,14 @@ featuressubset<-filter(features,V2 %in% Interest)
 # making a subset of the features that are only needed based on the problem statement 
 
 Data<-cbind(X,Y)
+# This is the 1,2 and 3 delivarbles required per the problem statement. See the readme file.
 
 Datasubset<-subset(Data,select = Interest)
-#now making a subset of X with only the variables of interest defined in filter. This is the required assignment deliverable
+#now making a subset of X with only the variables of interest defined in filter. This is the required assignment deliverable 4. 
+# See the read me file
+
+DatasubsetGroupedSummary<-Datasubset %>% group_by(Activites) %>% summarise_all(funs(mean))
+# this is the required summarized data by activites which is deliverable number 5. See the read me file.
+
+setwd("C:/Users/200019195/Downloads/getdata_projectfiles_UCI HAR Dataset")
+write.csv(DatasubsetGroupedSummary,file="DatasubsetGroupedSummary.csv")
