@@ -7,12 +7,12 @@
     "folds" : "",
     "hash" : "0",
     "id" : "C5F66C3C",
-    "lastKnownWriteTime" : 1555825683,
-    "last_content_update" : 1555825683127,
+    "lastKnownWriteTime" : 1555826445,
+    "last_content_update" : 1555826445839,
     "path" : "~/Getting-and-Cleaning-Data-Course-Project/run_analysis.R",
     "project_path" : "run_analysis.R",
     "properties" : {
-        "cursorPosition" : "40,42",
+        "cursorPosition" : "54,0",
         "scrollLine" : "23",
         "tempName" : "Untitled1"
     },

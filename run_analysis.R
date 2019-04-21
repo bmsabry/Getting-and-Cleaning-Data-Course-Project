@@ -50,5 +50,5 @@ Datasubset<-subset(Data,select = Interest)
 DatasubsetGroupedSummary<-Datasubset %>% group_by(Activites) %>% summarise_all(funs(mean))
 # this is the required summarized data by activites which is deliverable number 5. See the read me file.
 
-setwd("C:/Users/200019195/Downloads/getdata_projectfiles_UCI HAR Dataset")
+setwd("C:/Users/200019195/Documents/Getting-and-Cleaning-Data-Course-Project")
 write.csv(DatasubsetGroupedSummary,file="DatasubsetGroupedSummary.csv")

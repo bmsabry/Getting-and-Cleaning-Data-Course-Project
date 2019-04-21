@@ -5,7 +5,7 @@ The problem statement per the course description is given at the end. The code i
 
 The first step is to download the data and extract the files as is, without any move or changes, to a folder named "getdata_projectfiles_UCI HAR Dataset".
 
-I have placed this folder in my download folder. In my case the path is ""C:/Users/200019195/Downloads/getdata_projectfiles_UCI HAR Dataset". You must update this path to the proper path on your machine for the code to work. Then simply execute the code and it will generate the requirements stated below.
+I have placed this folder in my download folder. In my case the path is ""C:/Users/200019195/Downloads/getdata_projectfiles_UCI HAR Dataset". You must update this path to the proper path on your machine for the code to work. Then simply execute the code and it will generate the requirements stated below. The data set required is labeled DatasubsetGroupedSummary and is placed in the project folder
 
 Project description:
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
